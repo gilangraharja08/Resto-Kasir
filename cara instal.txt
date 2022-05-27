@@ -1,0 +1,5 @@
+cara instal
+-extract file
+-Import database kasir_cafe.sql
+-install file yang ada di setup file
+-selesai
